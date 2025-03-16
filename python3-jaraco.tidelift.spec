@@ -7,7 +7,7 @@ Summary:	Tools for Tidelift by jaraco
 Summary(pl.UTF-8):	Narzędzia do serwisu Tidelift autorstwa jaraco
 Name:		python3-jaraco.tidelift
 Version:	1.5.1
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/jaraco.tidelift/
